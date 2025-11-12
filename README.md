@@ -10,7 +10,6 @@ O **IA Nutricionista** é uma ferramenta informativa e educacional que tem como 
 
 Recomendamos fortemente que você consulte um médico, nutricionista ou outro profissional de saúde certificado para obter orientações personalizadas e adequadas às suas necessidades individuais. O uso das informações fornecidas pelo **IA Nutricionista** é de sua própria responsabilidade.
 
-_Projeto desenvolvido com ❤️ pela equipe da asmimov.academy._
 
 ## 🏛️ Arquitetura
 
