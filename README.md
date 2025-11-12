@@ -185,8 +185,3 @@ graph TD
    ```bash
    python nutritionist/app.py
    ```
-
-## 📚 Extras
-
-- **Armazenamento de Imagens**: As imagens enviadas pelos usuários serão salvas na pasta `storage` na raiz do projeto.
-- **Requisitos Adicionais**: Certifique-se de que as variaveis de ambiente sejam inseridas no seu `.env` assim como está no `.env-example` 
