@@ -4,6 +4,13 @@ Bem-vindo ao **IA Nutricionista**, uma plataforma avançada que une o poder da *
 
 O **IA Nutricionista** não é apenas um chatbot; é um **"consultor nutricional"** virtual que utiliza conhecimentos aprofundados em **bioquímica**, **metabolismo** e diversas abordagens dietéticas, como a dieta **mediterrânea**, **cetogênica** e **ayurvédica**. Com foco na sustentabilidade alimentar e no consumo consciente, nosso agente está comprometido em ajudá-lo a alcançar saúde otimizada e bem-estar integral. 🌱
 
+
+![Bot analisando refeição](bot_analisando_refeicao.png)
+
+
+![Bot atendendo cliente](bot_atendendo_cliente.png)
+
+
 ## ⚠️ Aviso Importante
 
 O **IA Nutricionista** é uma ferramenta informativa e educacional que tem como objetivo auxiliar os usuários em suas escolhas alimentares e estilo de vida. **Este projeto não substitui a consulta, diagnóstico ou tratamento realizado por profissionais de saúde qualificados**. As orientações fornecidas pelo agente virtual não devem ser utilizadas como substituto para aconselhamento médico ou nutricional profissional.
