@@ -85,7 +85,7 @@ graph TD
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.12+**: Linguagem principal do projeto.
+- **Python 3.11+**: Linguagem principal do projeto.
 - **LangChain**: Framework para construção de agentes conversacionais.
 - **OpenAI API**: Fornece os modelos de linguagem como o `gpt-4o-mini`.
 - **TinyDB**: Banco de dados NoSQL em formato JSON para persistência de dados.
@@ -106,7 +106,7 @@ graph TD
 
 ## ⚙️ Pré-requisitos
 
-- **Python 3.12+** instalado.
+- **Python 3.11+** instalado.
 - **Docker** instalado (opcional, se optar por executar com Docker).
 - **Chave de API da OpenAI**.
 - **Credenciais de API do Telegram** (API ID, API Hash e Bot Token).
